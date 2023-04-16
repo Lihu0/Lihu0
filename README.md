@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lihu0
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning android development
 
 <!---
 Lihu0/Lihu0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
