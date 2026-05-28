@@ -47,7 +47,7 @@
 
 <details>
   <summary><strong>⚡ Recent GitHub Activity</strong></summary>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lihu0&theme=radical">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Lihu0&theme=radical">
 </details>
 
 <details>
