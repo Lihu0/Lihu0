@@ -17,10 +17,10 @@
 **Frontend**
 
 <p>
-  <img align="left" alt="HTML" height="32px" src="https://skillicons.dev/icons?i=html" />
-  <img align="left" alt="CSS" height="32px" src="https://skillicons.dev/icons?i=css" />
-  <img align="left" alt="Javascript" height="32px" src="https://skillicons.dev/icons?i=javascript" />
-  <img align="left" alt="Typescript" height="32px" src="https://skillicons.dev/icons?i=ts" />
+  <img align="left" alt="HTML" height="32px" src="https://skillicons.dev/icons?i=html">
+  <img align="left" alt="CSS" height="32px" src="https://skillicons.dev/icons?i=css">
+  <img align="left" alt="Javascript" height="32px" src="https://skillicons.dev/icons?i=javascript">
+  <img align="left" alt="Typescript" height="32px" src="https://skillicons.dev/icons?i=ts">
 </p>
 
 <br><br>
@@ -28,9 +28,9 @@
 **Frameworks & Libraries**
 
 <p>
-  <img align="left" alt="React" height="32px" src="https://skillicons.dev/icons?i=react" />
-  <img align="left" alt="Svelte" height="32px" src="https://skillicons.dev/icons?i=svelte" />
-  <img align="left" alt="TailwindCSS" height="32px" src="https://skillicons.dev/icons?i=tailwind" />
+  <img align="left" alt="React" height="32px" src="https://skillicons.dev/icons?i=react">
+  <img align="left" alt="Svelte" height="32px" src="https://skillicons.dev/icons?i=svelte">
+  <img align="left" alt="TailwindCSS" height="32px" src="https://skillicons.dev/icons?i=tailwind">
 </p>
 
 <br><br>
@@ -38,7 +38,7 @@
 **Programming Languages**
 
 <p>
-  <img align="left" alt="Python" width="32px" src="https://skillicons.dev/icons?i=python" />
+  <img align="left" alt="Python" width="32px" src="https://skillicons.dev/icons?i=python">
 </p>
 
 <br><br>
