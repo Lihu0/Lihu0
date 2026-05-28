@@ -52,7 +52,7 @@
 
 <details>
   <summary><strong>💻 GitHub Profile Stats</strong></summary>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Lihu0?cardType=level&fontFamily=Georgia&theme=radical">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Lihu0&show_icons=true&theme=radical">
 </details>
 
 <details>
