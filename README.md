@@ -9,7 +9,7 @@
 - 🌱 I am passionate about **Web Dev & I enjoy learning new things**.
 - 🤝 I'm looking to collaborate on **open-source projects**.
 - 📚 I'm currently learning **more Frontend-related topics**
-- 🧑‍💻 I started coding at **early 2022**, which was **Class 5** for me! I started with **basic HTML**, learned **Python**, and now I'm mainly doing **Frontend**.
+- 🧑‍💻 I started coding at **early 2022**, when I was **10 years old**! I started with **basic HTML**, learned **Python**, and now I'm mainly doing **Frontend**.
 - ✖️ Outside programming, I also like **Math** and **Science**.
 
 ## Languages I Use:
